@@ -9,13 +9,13 @@ int main()
     multi commnet line
     */
 
-   // How to print Strings ?
+   //# HOW TO PRINT STRINGS ?
 
-    // here all the characters are counted as String (Strings: they are just symbols we can't apply maths on them.)
-    printf("Hello GitHub Community.");
+        //## HERE ALL THE CHARACTERS ARE COUNTED AS STRING (STRINGS: THEY ARE JUST SYMBOLS WE CAN'T APPLY MATHS ON THEM.)
+        printf("Hello GitHub Community.");
 
-    // here the number i used here 1 is also count as a string and the symbols ( , and !) are also string (they are useless symbols just used to display message)
-    printf("I was born on 1 july, Not really JK !");
+        //## HERE THE NUMBER I USED HERE 1 IS ALSO COUNT AS A STRING AND THE SYMBOLS ( , AND !) ARE ALSO STRING (THEY ARE USELESS SYMBOLS JUST USED TO DISPLAY MESSAGE)
+        printf("I was born on 1 july, Not really JK !");
 
     
 }
