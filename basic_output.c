@@ -19,6 +19,6 @@ int main()
 
     //# HOW TO PRINT Messages in Multi line ?
 
-        //## if you had runned the above code it seem like
+        //## IF YOU HAD RUNNED THE ABOVE CODE IT SEEM LIKE "Hello GitHub Community.I was born on 1 july, Not really JK !"
     
 }
