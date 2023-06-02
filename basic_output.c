@@ -21,6 +21,6 @@ int main()
 
         //## IF YOU HAD RUNNED THE ABOVE CODE IT SEEM LIKE "Hello GitHub Community.I was born on 1 july, Not really JK !"
         //   TO PRINT A MESSAGE IN MULTI LINE WE USE SPECIAL CHARACCTERS
-        printf("Now i can print\nAs much lines\nas i want.");
+        printf("\nNow i can print\nAs much lines\nas i want.");
     
 }
