@@ -12,5 +12,17 @@ int main()
     printf("    |||\n");
     printf("    |||\n");
 
+    //# MANY TREES
+    printf("     *                                                                  \n");
+    printf("    ***                                                                 \n");
+    printf("   *****                                                                \n");
+    printf("  *******                                                               \n");
+    printf(" *********                                                              \n");
+    printf("    |||                                                                 \n");
+    printf("    |||                                                                 \n");
+    printf("    |||                                                                 \n");
+    printf("    |||                                                                 \n");
+
+
 
 }
