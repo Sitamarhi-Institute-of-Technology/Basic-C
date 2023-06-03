@@ -27,14 +27,14 @@ int main()
     //# HOW TO PRINT NUMBERS AND DIGITS (NOT AS A STRING BUT AS A NUMBER)
 
         printf("This is an example of printing a number %d\n",1234);
-        printf("This is an another example of printing number with performing some arithemtic operation %d + %d = %d",100,18,128);
+        printf("This is an another example of printing number with performing some arithemtic operation %d + %d = %d\n",100,18,128);
         //## %d IS A TYPE OF FORMAT SPECIFIER THERE ARE OTHER FORMAT SPECIFIER FOR PRINTING OTHER TYPES OF DATA
         //   %d IS USED FOR INTEGERS
         //   %c IS USED FOR SINGLE CHARACTER
         //   %s IS USED OF WORDS
         //   %f OR %lf IS USED FOR DECIMAL NUMBERS
         //   AND ALSO REMEMBER THE ORDER OF FORMAT SPECIFIER AND DATA VALUES YOU ARE PRINTING.
-        printf("Now This is an example of printing number = %d, float = %f, Character = %c, Word = %s",111,111.111,"c","Always rember to put Strings and Characters inside double quotes");
+        printf("Now This is an example of printing number = %d, float = %f, Character = %c, Word = %s\n",111,111.111,"c","Always rember to put Strings and Characters inside double quotes");
         
     
 }
