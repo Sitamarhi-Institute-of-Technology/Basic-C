@@ -28,7 +28,11 @@ int main()
 
         printf("This is an example of printing a number %d\n",1234);
         printf("This is an another example of printing number with performing some arithemtic operation %d + %d = %d",100,18,128);
-        //## %d is 
+        //## %d IS A TYPE OF FORMAT SPECIFIER THERE ARE OTHER FORMAT SPECIFIER FOR PRINTING OTHER TYPES OF DATA
+        //   %d IS USED FOR INTEGERS
+        //   %c IS USED FOR SINGLE CHARACTER
+        //   %f OR %lf IS USED FOR DECIMAL NUMBERS
+        //   AND ALSO REMEMBER THE ORDER OF FORMAT SPECIFIER AND DATA VALUES YOU ARE PRINTING.
         
     
 }
