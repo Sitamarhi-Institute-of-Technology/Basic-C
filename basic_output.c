@@ -28,6 +28,6 @@ int main()
         printf("\"\" This special character is used to break line where it is used.\n");
         printf("\"\" This special character is used to break line where it is used.\n");
         printf("\"  \" This special character is used to break line where it is used.\n");
-        printf("\" \" This special character is used to break line where it is used.\n");
+        printf("\"  \" This special character is used to break line where it is used.\n");
     
 }
