@@ -28,6 +28,7 @@ int main()
 
         printf("This is an example of printing a number %d\n",1234);
         printf("This is an another example of printing number with performing some arithemtic operation %d + %d = %d",100,18,128);
+        //## %d is 
         
     
 }
