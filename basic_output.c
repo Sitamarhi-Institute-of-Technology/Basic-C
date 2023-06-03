@@ -31,8 +31,10 @@ int main()
         //## %d IS A TYPE OF FORMAT SPECIFIER THERE ARE OTHER FORMAT SPECIFIER FOR PRINTING OTHER TYPES OF DATA
         //   %d IS USED FOR INTEGERS
         //   %c IS USED FOR SINGLE CHARACTER
+        //   %s IS USED OF WORDS
         //   %f OR %lf IS USED FOR DECIMAL NUMBERS
         //   AND ALSO REMEMBER THE ORDER OF FORMAT SPECIFIER AND DATA VALUES YOU ARE PRINTING.
+        printf("Now This is an example of printing number = %d, float = %f, Character = %c, Word = %s",111,111.111,"c","Always rember to put Strings and Characters inside double quotes");
         
     
 }
