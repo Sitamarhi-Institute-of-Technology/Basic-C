@@ -41,7 +41,7 @@ int main()
 
     //# THIS IS ALL YOU NEED TO KNOW IN BASIC OUTPUT IN C LANGUAGE
 
-        printf("\n THE END OF EPISODE 1");
+        printf("\n****************************************THE END OF EPISODE 1****************************************");
         
     
 }
