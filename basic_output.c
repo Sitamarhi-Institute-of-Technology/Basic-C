@@ -6,7 +6,7 @@ int main()
     /*
     this
     is
-    multi commnet line
+    multi line comment
     */
 
     //# HOW TO PRINT STRINGS ?
