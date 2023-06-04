@@ -26,6 +26,28 @@ int main()
 
     //# MOUNTAIN
     
+    printf();
+    printf();
+    printf();
+    printf();
+    printf();
+    printf();
+    printf();
+    printf();
+    printf();
+    printf();
+    printf();
+    printf("");
+    printf("");
+    printf("");
+    printf("");
+    printf("");
+    printf("");
+    printf("");
+    printf("");
+    printf("");
+    printf("");
+    printf("");
 
 
 
