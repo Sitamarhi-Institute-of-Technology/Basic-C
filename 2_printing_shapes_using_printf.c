@@ -26,27 +26,27 @@ int main()
 
     //# MOUNTAIN
     printf("\n\n\n");
-    printf("                                    /\                                          \n ");
+    printf("                                    /\\                                          \n ");
     printf("                                   /  |                                             \n");
-    printf("                              ___/     \                                                \n ");
+    printf("                              ___/     \\                                                \n ");
     printf("                              \\         (                                               \n");
-    printf("                              _\         \_                                             \n");
+    printf("                              _\\        \\_                                             \n");
     printf("                             /             /                                                \n");
     printf("                            |              |                                                \n");
     printf("                           /               |                                                \n");
-    printf("                         __)               \                                                \n");
-    printf("                        /                   \                                               \n");
+    printf("                         __)              \\                                                \n");
+    printf("                        /                  \\                                               \n");
     printf("                     __(                     |__                                                \n");
-    printf("                    /                           \                                               \n");
+    printf("                    /                          \\                                               \n");
     printf("                   _|                            (                                              \n");
-    printf("                __/                               \                                             \n ");
-    printf("               /                                   \__                                              \n");
-    printf("            __\                                        \                                                \n ");
-    printf("           /                                            \                                               \n");
+    printf("                __/                               \\                                             \n ");
+    printf("               /                                   \\__                                              \n");
+    printf("            __\\                                      \\                                                \n ");
+    printf("           /                                           \\                                               \n");
     printf("          /                                              |                                              \n");
     printf("         |                                               /__                                                \n");
-    printf("         \                                                  |                                               \n");
-    printf("        /                                                    \                                              \n");
+    printf("         \\                                                  |                                               \n");
+    printf("        /                                                   \\                                              \n");
     printf("______/                                                       |_________                                                \n");
 
 
