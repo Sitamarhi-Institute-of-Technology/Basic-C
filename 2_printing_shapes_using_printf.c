@@ -29,7 +29,7 @@ int main()
     printf("                                    /\                                          \n ");
     printf("                                   /  |                                             \n");
     printf("                              ___/     \                                                \n ");
-    printf("                              \         (                                               \n");
+    printf("                              \\         (                                               \n");
     printf("                              _\         \_                                             \n");
     printf("                             /             /                                                \n");
     printf("                            |              |                                                \n");
