@@ -27,7 +27,7 @@ int main()
     //# MOUNTAIN
     printf("\n\n\n");
     printf("                                    /\\                                          \n ");
-    printf("                                   /  |                                             \n");
+    printf("                                  /   |                                             \n");
     printf("                              ___/     \\                                                \n ");
     printf("                              \\         (                                               \n");
     printf("                              _\\        \\_                                             \n");
