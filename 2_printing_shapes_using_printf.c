@@ -26,28 +26,28 @@ int main()
 
     //# MOUNTAIN
     
-    printf();
-    printf();
-    printf();
-    printf();
-    printf();
-    printf();
-    printf();
-    printf();
-    printf();
-    printf();
-    printf();
-    printf("");
-    printf("");
-    printf("");
-    printf("");
-    printf("");
-    printf("");
-    printf("");
-    printf("");
-    printf("");
-    printf("");
-    printf("");
+    printf("                                    /\ ");
+    printf("                                   /  |");
+    printf("                              ___/     \ ");
+    printf("                              \         (");
+    printf("                              _\         \_");
+    printf("                             /             /");
+    printf("                            |              |");
+    printf("                           /               |");
+    printf("                         __)               \ ");
+    printf("                        /                   \ ");
+    printf("                     __(                     |__");
+    printf("                    /                           \ ");
+    printf("                   _|                            (");
+    printf("                __/                               \ ");
+    printf("               /                                   \__");
+    printf("            __\                                        \ ");
+    printf("           /                                            \ ");
+    printf("          /                                              |");
+    printf("         |                                               /__");
+    printf("         \                                                  |");
+    printf("        /                                                    \ ");
+    printf("______/                                                       |_________");
 
 
 
