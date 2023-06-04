@@ -90,20 +90,20 @@ int main()
     printf("           _____________________________________                                                              \n ");
     printf("........../\\                                    \\                             \n");
     printf("......../    \\                                    \\                           \n");
-    printf("....../        \\                                    \\                          \n ");
-    printf("..../            \\                                    \\                        \n  ");
-    printf("../                \\____________________________________\\                      \n     ");
-    printf("                                                                                    \n   ");
-    printf("                                                                                    \n   ");
-    printf("                                                                                     \n  ");
-    printf("                                                                                    \n   ");
-    printf("                                                                                   \n    ");
-    printf("                                                                                   \n    ");
-    printf("                                                                                    \n   ");
-    printf("                                                                                    \n   ");
-    printf("                                                                                    \n   ");
-    printf("                                                                                    \n   ");
-    printf("                                                                                     \n  ");
+    printf("....../        \\                                    \\                          \n");
+    printf("..../            \\                                    \\                        \n");
+    printf("../                \\____________________________________\\                      \n");
+    printf("                                                                                    \n");
+    printf("                                                                                    \n");
+    printf("                                                                                     \n");
+    printf("                                                                                    \n");
+    printf("                                                                                   \n");
+    printf("                                                                                   \n");
+    printf("                                                                                    \n");
+    printf("                                                                                    \n");
+    printf("                                                                                    \n");
+    printf("                                                                                    \n");
+    printf("                                                                                     \n");
 
 
 
