@@ -13,6 +13,9 @@ int main()
    a = 92;
    printf("%d box, %d house, %d Women\n",a,a,a);
 
+   //# HONW MANY TYPES OF VARIABLES ARE THERE ?
+   
+
 
 
    return 0;
