@@ -16,7 +16,7 @@ int main()
    //# HONW MANY TYPES OF VARIABLES ARE THERE ?
    // MAINLY THERE ARE 3 TYPES OF VARIABLE AND IN C WE STRICTLY USE A VARIABLE FOR A CERTAIN DATA TYPE
    int number=9999;
-   float decimal_number = 2424.999;
+   float decimal_number = 2424.345;
    char character = 'a';
 
    // NOW TO PRINT ANY VARIABLE WE USE A FORMAT SPECIFIER AS YOU KNOW
