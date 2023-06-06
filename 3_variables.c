@@ -14,7 +14,15 @@ int main()
    printf("%d box, %d house, %d Women\n",a,a,a);
 
    //# HONW MANY TYPES OF VARIABLES ARE THERE ?
-   
+   // MAINLY THERE ARE 3 TYPES OF VARIABLE AND IN C WE STRICTLY USE A VARIABLE FOR A CERTAIN DATA TYPE
+   int number=9999;
+   float decimal_number = 99999.999;
+   char character = 'a';
+
+   // NOW TO PRINT ANY VARIABLE WE USE A FORMAT SPECIFIER AS YOU KNOW
+   printf("This is how we print a number = %d\n",number);
+   printf("This is how we print a Decimal number = %f, or we can use to print it like these = %.2f , %.3f , %.4f\n",decimal_number,decimal_number,decimal_number,decimal_number);
+
 
 
 
