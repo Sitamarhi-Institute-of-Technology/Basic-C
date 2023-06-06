@@ -15,6 +15,9 @@ int main()
 
    //# HONW MANY TYPES OF VARIABLES ARE THERE ?
    // MAINLY THERE ARE 3 TYPES OF VARIABLE AND IN C WE STRICTLY USE A VARIABLE FOR A CERTAIN DATA TYPE
+   
+   // THERE ARE SOME RULES THAT ONE SHOULD FOLLOW FOR CREATING A VARIABLE
+   // DONOT USE KEYWORDS AND USE ALPHANUMERIC WORDS
    int number=9999;
    float decimal_number = 2424.345;
    char character = 'a';
@@ -23,7 +26,11 @@ int main()
    printf("This is how we print a number = %d\n",number);
    printf("This is how we print a Decimal number = %f, or we can use to print it like these = %.2f , %.3f , %.4f\n",decimal_number,decimal_number,decimal_number,decimal_number);
    printf("This is how we print a character = %c\n",character);
+
+
+   //# JUST LIKE A CONTAINER OVERFLOW WHEN FILLED TOO MUCH JUST LIKE THAT WE CANNOT STORE MORE THAN IT IS BULIT TO HOLD DATA
    
+
 
 
 
