@@ -22,6 +22,7 @@ int main()
    // NOW TO PRINT ANY VARIABLE WE USE A FORMAT SPECIFIER AS YOU KNOW
    printf("This is how we print a number = %d\n",number);
    printf("This is how we print a Decimal number = %f, or we can use to print it like these = %.2f , %.3f , %.4f\n",decimal_number,decimal_number,decimal_number,decimal_number);
+   printf("This is how we print a character = %c\n",character);
 
 
 
