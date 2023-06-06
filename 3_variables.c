@@ -7,11 +7,11 @@ int main()
    //# WHY DO WE NEED VARIABLES ?
    // IT CAN BE HELPFUL IN MANY WAYS BUT FOR NOW FOR OUR UNDERSTANDING I WILL SHOW ONE EXAMPLE
    
-   printf("%d box, %d house, %d Women",a,a,a);
+   printf("%d box, %d house, %d Women\n",a,a,a);
 
    // NOW IF WE WANT TO CHANGE THE NUMBER WE CAN JUST SIMPLY DO IT WITHOUT CHANGING EVERY LETTER ONE BY ONE
    a = 92;
-   printf("%d box, %d house, %d Women",a,a,a);
+   printf("%d box, %d house, %d Women\n",a,a,a);
 
 
 
