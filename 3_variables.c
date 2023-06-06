@@ -10,7 +10,7 @@ int main()
    printf("%s box, %s house, %s Women",item,item,item);
 
    // NOW IF WE WANT TO CHANGE THE ATTRIBUTE WE CAN JUST SIMPLY DO IT WITHOUT CHANGING EVERY LETTER ONE BY ONE
-   item[10] = "GREEN";
+   item = "GREEN";
    printf("%s box, %s house, %s Women",item,item,item);
 
 
