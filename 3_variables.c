@@ -6,12 +6,12 @@ int main()
 
    //# WHY DO WE NEED VARIABLES ?
    // IT CAN BE HELPFUL IN MANY WAYS BUT FOR NOW FOR OUR UNDERSTANDING I WILL SHOW ONE EXAMPLE
-   char item[10] = "RED"; //IT IS JUST A VARIABLE WITH A NAME "item", LATER IT WILL BE EXPLAINED
-   printf("%s box, %s house, %s Women",item,item,item);
+   
+   printf("%d box, %d house, %d Women",a,a,a);
 
-   // NOW IF WE WANT TO CHANGE THE ATTRIBUTE WE CAN JUST SIMPLY DO IT WITHOUT CHANGING EVERY LETTER ONE BY ONE
-   item = "GREEN";
-   printf("%s box, %s house, %s Women",item,item,item);
+   // NOW IF WE WANT TO CHANGE THE NUMBER WE CAN JUST SIMPLY DO IT WITHOUT CHANGING EVERY LETTER ONE BY ONE
+   a = 92;
+   printf("%d box, %d house, %d Women",a,a,a);
 
 
 
