@@ -6,7 +6,7 @@ int main()
 
    // WHY DO WE NEED VARIABLES ?
    // IT CAN BE HELPFUL IN MANY WAYS BUT FOR NOW FOR OUR UNDERSTANDING I WILL SHOW ONE EXAMPLE
-   char item[10] = "RED";
+   char item[10] = "RED"; //IT IS JUST A VARIABLE WITH A NAME "item", LATER IT WILL BE EXPLAINED
    printf("%s box, %s house, %s Women",item,item,item);
 
 
