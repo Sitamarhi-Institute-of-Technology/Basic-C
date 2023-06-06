@@ -41,14 +41,16 @@ int main()
    // The sizeof(variable)operator computes the size of a variable. And, to print the result returned by sizeof, we use either %lu or %zu format specifier.
    // "sizeof is pre-defined function to calculate size of variable we will learn more about functions later"
    printf( "============================================================\n\n");
-   printf( "Size of Data Types in C\n\n" );
+   printf( "Size of Data Types in C\n" );
    printf( "------------------------------------------------------------\n");
    printf("Size of int: %zu bytes\n", sizeof(intType));
    printf("Size of float: %zu bytes\n", sizeof(floatType));
    printf("Size of double: %zu bytes\n", sizeof(doubleType));
    printf("Size of char: %zu byte\n", sizeof(charType));
 
-   printf( "Ranges for integer data types in C\n\n" );
+   printf( "============================================================\n\n");
+   printf( "Ranges for integer data types in C\n" );
+   printf( "------------------------------------------------------------\n");
    printf( "int8_t    %20d  %20d\n"     , SCHAR_MIN , SCHAR_MAX  );
    printf( "------------------------------------------------------------\n");
    printf( "int16_t   %20d  %20d\n"     , SHRT_MIN  , SHRT_MAX   );
