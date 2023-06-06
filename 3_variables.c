@@ -40,7 +40,7 @@ int main()
 
    // The sizeof(variable)operator computes the size of a variable. And, to print the result returned by sizeof, we use either %lu or %zu format specifier.
    // "sizeof is pre-defined function to calculate size of variable we will learn more about functions later"
-   printf( "============================================================\n\n");
+   printf( "============================================================\n");
    printf( "Size of Data Types in C\n" );
    printf( "------------------------------------------------------------\n");
    printf("Size of int: %zu bytes\n", sizeof(intType));
@@ -48,7 +48,7 @@ int main()
    printf("Size of double: %zu bytes\n", sizeof(doubleType));
    printf("Size of char: %zu byte\n", sizeof(charType));
 
-   printf( "============================================================\n\n");
+   printf( "============================================================\n");
    printf( "Ranges for integer data types in C\n" );
    printf( "------------------------------------------------------------\n");
    printf( "int8_t    %20d  %20d\n"     , SCHAR_MIN , SCHAR_MAX  );
@@ -61,8 +61,8 @@ int main()
    printf( "uint32_t  %20d  %20u\n"     , 0         , UINT_MAX   );
    printf( "uint64_t  %20d  %20llu\n"   , 0         , ULLONG_MAX );
    printf( "\n" );
-   printf( "============================================================\n\n");
-   printf( "Ranges for real number data types in C\n\n" );
+   printf( "============================================================\n");
+   printf( "Ranges for real number data types in C\n" );
    printf( "------------------------------------------------------------\n");
    printf( "float        %14.7g  %14.7g\n"   , FLT_MIN  , FLT_MAX  );
    printf( "double       %14.7g  %14.7g\n"   , DBL_MIN  , DBL_MAX  );
