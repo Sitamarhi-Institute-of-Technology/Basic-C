@@ -52,7 +52,6 @@ int main()
    printf( "Ranges for integer data types in C\n" );
    printf( "------------------------------------------------------------\n");
    printf( "int8_t    %20d  %20d\n"     , SCHAR_MIN , SCHAR_MAX  );
-   printf( "------------------------------------------------------------\n");
    printf( "int16_t   %20d  %20d\n"     , SHRT_MIN  , SHRT_MAX   );
    printf( "int32_t   %20d  %20d\n"     , INT_MIN   , INT_MAX    );
    printf( "int64_t   %20lld  %20lld\n" , LLONG_MIN , LLONG_MAX  );
