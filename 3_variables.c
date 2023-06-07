@@ -69,7 +69,7 @@ int main()
    printf( "double       %14.7g  %14.7g\n"   , DBL_MIN  , DBL_MAX  );
    printf( "long double  %14.7Lg  %14.7Lg\n" , LDBL_MIN , LDBL_MAX );
 
-
+   printf("\n\n||****************************************|| THE END OF EPISODE 3 ||****************************************||");       
 
 
 
