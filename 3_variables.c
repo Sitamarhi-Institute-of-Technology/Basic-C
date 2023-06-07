@@ -50,6 +50,7 @@ int main()
 
    // BELOW THE MAX AND MIN RANGE OF DATA VALUES THAT YOU CAN STORE IN A VARIABLE, ALWAYS MAKE SURE YOU DON'T EXCEED THE DEFINED VALUE
    // TO STORE VARY LARGE DATA AND SMALL DATA THERE ARE SOME OPTION ONE SHOULD USE SHORT OR LONG BEFORE DEFINIG AN INTEGER
+   // DIFFERENT TYPES OF VARIABLES USE DIFFERENT TYPE OF FORMAT SPECIFIER
    printf( "============================================================\n");
    printf( "Ranges for integer data types in C\n" );
    printf( "------------------------------------------------------------\n");
