@@ -25,11 +25,15 @@ void main()
     int age;
     double income;
 
-    printf("Enter Your First name = ");
+    printf("\nEnter Your First name = ");
     scanf("%s",&Fname); // GETTING INPUT FROM THE USER HERE "%s" IS FORMAT SPECIFIER FOR WORDS WHOSE LENGTH GRATER THAN 1 AND "&" IS AN ATTRIBUTE THAT ACCESS THE MEMORY LOCATION OF "Fname" VARIABLE
-    printf("Enter Your First name = ");
+    printf("\nEnter Your First name = ");
     scanf("%s",&Lname);
-    
+    printf("\nEnter Your age = ");
+    scanf("%d,&age");
+    printf("\nEnter Your salary = ");
+    scanf("%lf",&income);
+
     
 
 
