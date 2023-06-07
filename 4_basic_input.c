@@ -7,7 +7,7 @@ int main()
     // INITALIZATION OF VARIABLE
     a=10;  // WHEN ASSIGNING A VALUE TO A VARIABLE IS CALLED INITIALIZATION
 
-    printf("\n value of a = %d",a);
+    printf("\nvalue of a = %d",a);
 
     // REASSIGNING NEW VALUE TO "a"
     a=20;
@@ -24,7 +24,7 @@ int main()
     char Fname[10],Lname[10];
     int age;
     double income;
-
+    //# TO TAKE INPUT IN VSCODE YOU NEED TO CONFIGURE SETTINGS, GO TO --> SETTINGS --> RUN CODE CONFIGURATION -- ENABLE RUN IN TERMINAL 
     printf("\nEnter Your First name = ");
     scanf("%s",&Fname); // GETTING INPUT FROM THE USER HERE "%s" IS FORMAT SPECIFIER FOR WORDS WHOSE LENGTH GRATER THAN 1 AND "&" IS AN ATTRIBUTE THAT ACCESS THE MEMORY LOCATION OF "Fname" VARIABLE
     printf("\nEnter Your First name = ");
@@ -33,6 +33,9 @@ int main()
     scanf("%d,&age");
     printf("\nEnter Your salary = ");
     scanf("%lf",&income);
+
+    
+
 
     
 
