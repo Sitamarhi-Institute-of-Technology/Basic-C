@@ -48,6 +48,8 @@ int main()
    printf("Size of double: %zu bytes\n", sizeof(doubleType));
    printf("Size of char: %zu byte\n", sizeof(charType));
 
+   // BELOW THE MAX AND MIN RANGE OF DATA VALUES THAT YOU CAN STORE IN A VARIABLE, ALWAYS MAKE SURE YOU DON'T EXCEED THE DEFINED VALUE
+   // TO STORE VARY LARGE DATA AND SMALL DATA THERE ARE SOME 
    printf( "============================================================\n");
    printf( "Ranges for integer data types in C\n" );
    printf( "------------------------------------------------------------\n");
