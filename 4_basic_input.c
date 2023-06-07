@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
     // DEFINITON OF VARIABLE : WHEN WE CREATE A VARIABLE WE CALL IT DEFINITION
     int a,b,c; // DECLARING MULTIPLE VARIABLE IN ONE LINE
