@@ -1,0 +1,14 @@
+#include<stdio.h>
+void main()
+{
+    // DECLARATION OF VARIABLE : WHEN WE CREATE A VARIABLE WE CALL IT DECLARATION
+    int a,b,c; // DECLARING MULTIPLE VARIABLE IN ONE LINE
+
+    // INITALIZATION OF VARIABLE
+
+
+
+
+
+    return 0;
+}
