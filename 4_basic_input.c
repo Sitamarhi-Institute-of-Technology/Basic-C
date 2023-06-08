@@ -35,10 +35,10 @@ int main()
     scanf("%lf",&income);
 
     printf("\n+++++++++++++++++++++++++++++++++");
-    printf("\n++ First name = %s             ++",Fname);
-    printf("\n++ Last name  = %s             ++",Lname);
-    printf("\n++ age        = %d             ++",age);
-    printf("\n++ Income     = %lf            ++",income);
+    printf("\n++ First name = %15s             ++",Fname);
+    printf("\n++ Last name  = %15s             ++",Lname);
+    printf("\n++ age        = %15d             ++",age);
+    printf("\n++ Income     = %15lf            ++",income);
     printf("\n+++++++++++++++++++++++++++++++++");
     //# WHILE GETTING INPUT WORDS OR STRINGS FROM USER THERE IS TRICKY PROBLEM WE HAVE TO DEAL, WHEN YOU ENTER TWO WORDS SEPERATED BY SPACE FROM EACH OTHER ONLY THEN FIRST WORD GET ACCEPTED BY COMPILER
     // THIS IS BECAUSE %S IS FOR COMBINATION OF CHARACTERS AND IT READS CHARACTER ONE BY ONE AND WHEN THERE IS AN SPACE IS WORD IT THINK OF IT AS END OF WORD
