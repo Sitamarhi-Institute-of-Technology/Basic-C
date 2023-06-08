@@ -37,7 +37,7 @@ int main()
     printf("+++++++++++++++++++++++++++++++++");
     printf("++ First name = %s             ++",Fname);
     printf("++ Last name  = %s             ++",Lname);
-    printf("++ First name = %s             ++",Fname);
+    printf("++ age        = %d             ++",age);
     printf("++ First name = %s             ++",Fname);
 
     //# WHILE GETTING INPUT WORDS OR STRINGS FROM USER THERE IS TRICKY PROBLEM WE HAVE TO DEAL, WHEN YOU ENTER TWO WORDS SEPERATED BY SPACE FROM EACH OTHER ONLY THEN FIRST WORD GET ACCEPTED BY COMPILER
