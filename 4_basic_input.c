@@ -34,12 +34,12 @@ int main()
     printf("\nEnter Your salary = ");
     scanf("%lf",&income);
 
-    printf("+++++++++++++++++++++++++++++++++");
-    printf("++ First name = %s             ++",Fname);
-    printf("++ Last name  = %s             ++",Lname);
-    printf("++ age        = %d             ++",age);
-    printf("++ First name = %s             ++",Fname);
-
+    printf("\n+++++++++++++++++++++++++++++++++");
+    printf("\n++ First name = %s             ++",Fname);
+    printf("\n++ Last name  = %s             ++",Lname);
+    printf("\n++ age        = %d             ++",age);
+    printf("\n++ Income     = %lf            ++",income);
+    printf("\n+++++++++++++++++++++++++++++++++");
     //# WHILE GETTING INPUT WORDS OR STRINGS FROM USER THERE IS TRICKY PROBLEM WE HAVE TO DEAL, WHEN YOU ENTER TWO WORDS SEPERATED BY SPACE FROM EACH OTHER ONLY THEN FIRST WORD GET ACCEPTED BY COMPILER
     // THIS IS BECAUSE %S IS FOR COMBINATION OF CHARACTERS AND IT READS CHARACTER ONE BY ONE AND WHEN THERE IS AN SPACE IS WORD IT THINK OF IT AS END OF WORD
     // TO OVERCOME THIS PROBLEM WE USE "%[^\n]s"
