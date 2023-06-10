@@ -35,6 +35,9 @@ int main()
     i=3;
     printf("\nThis is 4th data stored at index %d : %d ",i,integer_array[i]);
 
+    i=4;
+    printf("\nThis is 5th data stored at index %d : %d ",i,integer_array[i]);
+
 
 
 
