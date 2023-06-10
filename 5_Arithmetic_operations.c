@@ -15,17 +15,22 @@ int main()
     // SUMMATION (+)
     num3 = num1 + num2;
 
-    printf("\n%lf + %lf = %lf",num1,num2,num3);
+    printf("\n%10lf + %10lf = %10lf",num1,num2,num3);
 
     // SUBTRACT (-)
     num3 = num1 - num2;
 
-    printf("\n%lf - %lf = %lf",num1,num2,num3);
+    printf("\n%10lf - %10lf = %10lf",num1,num2,num3);
 
     // MULTIPLY (*)
     num3 = num1 * num2;
 
-    printf("\n%lf * %lf = %lf",num1,num2,num3);
+    printf("\n%10lf * %10lf = %10lf",num1,num2,num3);
+
+    // DIVIDE (/)
+    num3 = num1 / num2;
+
+    printf("\n%10lf / %10lf = %10lf",num1,num2,num3);
 
 
 
