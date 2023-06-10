@@ -27,7 +27,7 @@ int main()
 
     // WE CAN USE A VARIABLE AT THE PLACE OF INDEX INSTED OF WRITING NUMBER
     i=1;
-    printf("\nThis is 2nd data stored at index 1 : %d ",integer_array[i]);
+    printf("\nThis is 2nd data stored at index %d : %d ",i,integer_array[i]);
 
 
 
