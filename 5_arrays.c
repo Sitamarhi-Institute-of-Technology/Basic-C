@@ -29,6 +29,9 @@ int main()
     i=1;
     printf("\nThis is 2nd data stored at index %d : %d ",i,integer_array[i]);
 
+    i=2;
+    printf("\nThis is 3rd data stored at index %d : %d ",i,integer_array[i]);
+
 
 
 
