@@ -25,21 +25,21 @@ int main()
     int age;
     double income;
     //# TO TAKE INPUT IN VSCODE YOU NEED TO CONFIGURE SETTINGS, GO TO --> SETTINGS --> RUN CODE CONFIGURATION -- ENABLE RUN IN TERMINAL 
-    // printf("\nEnter Your First name = ");
-    // scanf("%s",&Fname); // GETTING INPUT FROM THE USER HERE "%s" IS FORMAT SPECIFIER FOR WORDS WHOSE LENGTH GRATER THAN 1 AND "&" IS AN ATTRIBUTE THAT ACCESS THE MEMORY LOCATION OF "Fname" VARIABLE
-    // printf("\nEnter Your First name = ");
-    // scanf("%s",&Lname);
-    // printf("\nEnter Your age = ");
-    // scanf("%d,&age");
-    // printf("\nEnter Your salary = ");
-    // scanf("%lf",&income);
+    printf("\nEnter Your First name = ");
+    scanf("%s",&Fname); // GETTING INPUT FROM THE USER HERE "%s" IS FORMAT SPECIFIER FOR WORDS WHOSE LENGTH GRATER THAN 1 AND "&" IS AN ATTRIBUTE THAT ACCESS THE MEMORY LOCATION OF "Fname" VARIABLE
+    printf("\nEnter Your First name = ");
+    scanf("%s",&Lname);
+    printf("\nEnter Your age = ");
+    scanf("%d,&age");
+    printf("\nEnter Your salary = ");
+    scanf("%lf",&income);
 
-    // printf("\n++++++++++++++++++++++++++++++++++++++++++++");
-    // printf("\n++ First name =           %15s ++",Fname);
-    // printf("\n++ Last name  =           %15s ++",Lname);
-    // printf("\n++ age        =           %15d ++",age);
-    // printf("\n++ Income     =          %16lf ++",income);
-    // printf("\n++++++++++++++++++++++++++++++++++++++++++++");
+    printf("\n++++++++++++++++++++++++++++++++++++++++++++");
+    printf("\n++ First name =           %15s ++",Fname);
+    printf("\n++ Last name  =           %15s ++",Lname);
+    printf("\n++ age        =           %15d ++",age);
+    printf("\n++ Income     =          %16lf ++",income);
+    printf("\n++++++++++++++++++++++++++++++++++++++++++++");
     //# WHILE GETTING INPUT WORDS OR STRINGS FROM USER THERE IS TRICKY PROBLEM WE HAVE TO DEAL, WHEN YOU ENTER TWO WORDS SEPERATED BY SPACE FROM EACH OTHER ONLY THEN FIRST WORD GET ACCEPTED BY COMPILER
     // THIS IS BECAUSE %S IS FOR COMBINATION OF CHARACTERS AND IT READS CHARACTER ONE BY ONE AND WHEN THERE IS AN SPACE IS WORD IT THINK OF IT AS END OF LINE
     // TO OVERCOME THIS PROBLEM WE USE "%[^\n]s"
