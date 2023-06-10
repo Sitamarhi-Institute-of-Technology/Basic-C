@@ -44,9 +44,9 @@ int main()
     // THIS IS BECAUSE %S IS FOR COMBINATION OF CHARACTERS AND IT READS CHARACTER ONE BY ONE AND WHEN THERE IS AN SPACE IS WORD IT THINK OF IT AS END OF LINE
     // TO OVERCOME THIS PROBLEM WE USE "%[^\n]s"
 
-    char message[50];
+    char message[500];
     printf("\nWrite a message for your future self in not more than 500 letters :");
-    scanf("%[^\n]s",&message);
+    scanf("%[^\n]c",&message);
 
 
     
