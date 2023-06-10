@@ -15,7 +15,7 @@ int main()
     // SUM
     num3 = num1+num2;
 
-    printf("\n%lf + %lf = %lf",num1,num2, )
+    printf("\n%lf + %lf = %lf",num1,num2,num3);
 
 
 
