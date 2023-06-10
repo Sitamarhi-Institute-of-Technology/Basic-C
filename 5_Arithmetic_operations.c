@@ -6,7 +6,7 @@ int main()
     
     double num1,num2,num3;
 
-    printf("")
+    printf("\nENTER NUM1 = ")
 
 
 
