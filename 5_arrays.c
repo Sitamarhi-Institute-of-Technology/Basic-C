@@ -23,11 +23,11 @@ int main()
 
     // # HOW TO PRINT AN ARRAY ?
     
-    printf("\nThis is 1st data stored at index 0 %d ",integer_array[0]);
+    printf("\nThis is 1st data stored at index 0 : %d ",integer_array[0]);
 
     // WE CAN USE A VARIABLE AT THE PLACE OF INDEX INSTED OF WRITING NUMBER
     i=1;
-    printf("\nThis is 2nd data stored at index 1 %d ",integer_array[i]);
+    printf("\nThis is 2nd data stored at index 1 : %d ",integer_array[i]);
 
 
 
