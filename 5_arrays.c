@@ -16,10 +16,10 @@ int main()
     // WE WILL LEARN TO STORE DATA ONE BY ONE FIRST
 
     integer_array[0]= 2;    // ENTERING 1ST DATA AT INDEX 0
-    integer_array[0]= 2;    // ENTERING 1ST DATA AT INDEX 0
-    integer_array[0]= 2;    // ENTERING 1ST DATA AT INDEX 0
-    integer_array[0]= 2;    // ENTERING 1ST DATA AT INDEX 0
-    integer_array[0]= 2;    // ENTERING 1ST DATA AT INDEX 0
+    integer_array[1]= 2;    // ENTERING 1ST DATA AT INDEX 0
+    integer_array[2]= 2;    // ENTERING 1ST DATA AT INDEX 0
+    integer_array[3]= 2;    // ENTERING 1ST DATA AT INDEX 0
+    integer_array[4]= 2;    // ENTERING 1ST DATA AT INDEX 0
 
 
 
