@@ -50,7 +50,9 @@ int main()
     printf("There is a message for you by your past self, few moment ago : %s",message);
 
 
-    
+    // THERE IS NOTHING MUCH HERE TO LEARN FOR BASIC INPUT
+
+    printf("\n\n||****************************************|| THE END OF EPISODE 4 ||****************************************||");       
 
 
 
