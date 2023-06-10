@@ -41,8 +41,12 @@ int main()
     printf("\n++ Income     =          %16lf ++",income);
     printf("\n++++++++++++++++++++++++++++++++++++++++++++");
     //# WHILE GETTING INPUT WORDS OR STRINGS FROM USER THERE IS TRICKY PROBLEM WE HAVE TO DEAL, WHEN YOU ENTER TWO WORDS SEPERATED BY SPACE FROM EACH OTHER ONLY THEN FIRST WORD GET ACCEPTED BY COMPILER
-    // THIS IS BECAUSE %S IS FOR COMBINATION OF CHARACTERS AND IT READS CHARACTER ONE BY ONE AND WHEN THERE IS AN SPACE IS WORD IT THINK OF IT AS END OF WORD
+    // THIS IS BECAUSE %S IS FOR COMBINATION OF CHARACTERS AND IT READS CHARACTER ONE BY ONE AND WHEN THERE IS AN SPACE IS WORD IT THINK OF IT AS END OF LINE
     // TO OVERCOME THIS PROBLEM WE USE "%[^\n]s"
+
+    int message[500];
+    printf("Write a message for your future self in not more than 500 letters :");
+    scanf("%[^\n]s",&message);
 
 
     
