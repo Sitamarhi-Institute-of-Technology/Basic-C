@@ -46,7 +46,7 @@ int main()
 
     char message[500];
     printf("\nWrite a message for your future self in not more than 500 letters : ");
-    scanf("%*s",&message);
+    scanf("%*c",&message);
     printf("There is a message for you by your past self, few moment ago : \n%s",message);
 
 
