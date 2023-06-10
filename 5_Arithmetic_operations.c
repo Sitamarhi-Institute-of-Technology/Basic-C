@@ -10,7 +10,7 @@ int main()
     scanf("%lf",&num1);
 
     printf("\nENTER NUM2 = ");
-    scanf("%lf",&num1);
+    scanf("%lf",&num2);
 
     // SUMMATION (+)
     num3 = num1 + num2;
