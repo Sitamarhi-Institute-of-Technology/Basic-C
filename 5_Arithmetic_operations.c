@@ -12,7 +12,10 @@ int main()
     printf("\nENTER NUM2 = ");
     scanf("%lf",&num1);
 
-    printf("\n%lf + %lf = %lf )
+    // SUM
+    num3 = num1+num2;
+
+    printf("\n%lf + %lf = %lf",num1,num2, )
 
 
 
