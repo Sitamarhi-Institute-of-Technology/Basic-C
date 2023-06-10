@@ -42,11 +42,11 @@ int main()
     printf("\n++++++++++++++++++++++++++++++++++++++++++++\n");
     //# WHILE GETTING INPUT WORDS OR STRINGS FROM USER THERE IS TRICKY PROBLEM WE HAVE TO DEAL, WHEN YOU ENTER TWO WORDS SEPERATED BY SPACE FROM EACH OTHER ONLY THEN FIRST WORD GET ACCEPTED BY COMPILER
     // THIS IS BECAUSE %S IS FOR COMBINATION OF CHARACTERS AND IT READS CHARACTER ONE BY ONE AND WHEN THERE IS AN SPACE IS WORD IT THINK OF IT AS END OF LINE
-    // TO OVERCOME THIS PROBLEM WE USE "%[^\n]s"
+    // TO OVERCOME THIS PROBLEM WE USE " %[^\n]s "
 
     char message[500];
     printf("\nWrite a message for your future self in not more than 500 letters : ");
-    scanf(" %[^\n]s ",message);
+    scanf(" %[^\n]s ",&message);
     printf("There is a message for you by your past self, few moment ago : \n%s",message);
 
 
