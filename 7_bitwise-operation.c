@@ -16,7 +16,8 @@ int main() {
     printf("Output = %d\n", ~35);
     printf("Output = %d\n", ~-12);
 
-    // RIGHT SHIFT OPERATOR
+    // RIGHT SHIFT OPERATOR (RIGHT SHIFT OPERATOR SHIFTS ALL BITS TOWARDS RIGHT BY CERTAIN NUMBER OF SPECIFIED BITS. IT IS DENOTED BY >>)
+    
 
     return 0;
 }
