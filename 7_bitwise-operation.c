@@ -13,6 +13,9 @@ int main() {
     printf("Output = %d", a ^ b);
 
     // BITWISE COMPLEMENT OPERATOR ~
+    printf("Output = %d\n", ~35);
+    printf("Output = %d\n", ~-12);
+
 
     return 0;
 }
