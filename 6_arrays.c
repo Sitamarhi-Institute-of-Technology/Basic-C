@@ -38,7 +38,11 @@ int main()
     i=4;
     printf("\nThis is 5th data stored at index %d : %d ",i,integer_array[i]);
 
+    // HOW TO ACCESS A PARTICULAR DATA IN A ARRAY
+    // IF I WANT TO CHANGE THE VALUE AT INDEX 4 FROM 32 TO 64
 
+    integer_array[4]=64;
+    printf("\n New value at index 4 is %d",integer_array[4]);
 
 
 
