@@ -10,7 +10,9 @@ int main() {
     printf("Output = %d", a | b);
 
     // BITWISE XOR (EXCLUSIVE OR) OPERATOR ^
-     printf("Output = %d", a ^ b);
+    printf("Output = %d", a ^ b);
+
+    //Bitwise Complement Operator ~
 
     return 0;
 }
