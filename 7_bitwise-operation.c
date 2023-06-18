@@ -7,10 +7,10 @@ int main() {
     printf("Output = %d", a & b);
 
     // BITWISE OR OPERATOR |
-    
     printf("Output = %d", a | b);
 
     // BITWISE XOR (EXCLUSIVE OR) OPERATOR ^
+     printf("Output = %d", a ^ b);
 
     return 0;
 }
