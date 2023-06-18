@@ -12,7 +12,7 @@ int main() {
     // BITWISE XOR (EXCLUSIVE OR) OPERATOR ^
     printf("Output = %d", a ^ b);
 
-    //Bitwise Complement Operator ~
+    // BITWISE COMPLEMENT OPERATOR ~
 
     return 0;
 }
