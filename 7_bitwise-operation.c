@@ -10,5 +10,7 @@ int main() {
     
     printf("Output = %d", a | b);
 
+    // BITWISE XOR (EXCLUSIVE OR) OPERATOR ^
+
     return 0;
 }
