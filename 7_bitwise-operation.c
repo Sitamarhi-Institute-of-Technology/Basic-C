@@ -16,6 +16,7 @@ int main() {
     printf("Output = %d\n", ~35);
     printf("Output = %d\n", ~-12);
 
+    // RIGHT SHIFT OPERATOR
 
     return 0;
 }
