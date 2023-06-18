@@ -44,6 +44,10 @@ int main()
     integer_array[4]=64;
     printf("\nNew value at index 4 is %d",integer_array[4]);
 
+    // NOW WE CAN APPLY SAME FOR CHAR, AND ARRAY OF CHAR IS NOT ANYTHING BUT STRING
+
+    // SIMILARLY FOR ANY OTHER DATA TYPE
+
 
 
 
