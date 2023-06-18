@@ -23,5 +23,7 @@ int main() {
         printf("Right shift by %d: %d\n", i, num >> i);
     }
 
+    // Left Shift Operator
+
     return 0;
 }
