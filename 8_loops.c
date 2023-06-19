@@ -6,10 +6,10 @@ int main()
     printf("\nprinting by approach 1: 1 2 3 4 5 6 7 8 9 10");
     
     int i=0;
-    printf("\nprinting by approach 2:");
+    printf("\nprinting by approach 2: ");
     while(i<=10)
     {
-        printf("%d",i);
+        printf("%d ",i);
         i++;
     }
     return 0;
