@@ -5,7 +5,7 @@ int main()
     // EXAMPLE : PRINT 0 TO 10 (WE WILL DO IT BY TO APPROACH)
     printf("\nprinting by approach 1: 1 2 3 4 5 6 7 8 9 10");
     
-    int i=0;
+    int i=1;
     printf("\nprinting by approach 2: ");
     while(i<=10)
     {
