@@ -12,5 +12,14 @@ int main()
         printf("%d ",i);
         i++;
     }
+
+    // THERE ARE 3 TYPES OF LOOPS
+    // 1: WHILE LOOP
+
+    int a=0;
+    while(a<=9)// LOOP TERMINATION CONDITION (IF NOT GIVEN IT WILL STUCK IN THIS LOOP FOR ETERNITY)
+    {
+        
+    }
     return 0;
 }
