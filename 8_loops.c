@@ -14,12 +14,14 @@ int main()
     }
 
     // THERE ARE 3 TYPES OF LOOPS
-    // 1: WHILE LOOP
+    // 1: WHILE LOOP (HERE WE FIRST CHECK THE COMPLETION CONDITION AFTER THAT COMPILER EXECUTE THE CODE IS THE WHILE BLOCK)
 
     int a=0;
     while(a<=9)// LOOP TERMINATION CONDITION (IF NOT GIVEN IT WILL STUCK IN THIS LOOP FOR ETERNITY)
     {
-        
+        printf("\nthis is an example of while loop : %d",a);
+        a++; // INCRIMINATION TO KEEP THIS LOOP MOVING FORWARD 
     }
+
     return 0;
 }
