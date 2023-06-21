@@ -22,8 +22,15 @@ int main()
         printf("\nthis is an example of while loop : %d",a);
         a++; // INCRIMINATION TO KEEP THIS LOOP MOVING FORWARD 
     }
-
+    printf("\n\n");
     // 2: DO WHILE LOOP (SAME AS WHILE BUT IT EXECUTE THE BLOCK CODE BEFORE CHECKING THE LOOP TERMINATION CONDITION)
+    int b=0;
+    do
+    {
+        printf("\nthis is an example of do while loop: %d",b);
+        b++;
+    } while (b<=9);
+    
 
     return 0;
 }
