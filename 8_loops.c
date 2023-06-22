@@ -17,7 +17,7 @@ int main()
     // THERE ARE 3 TYPES OF LOOPS
     // 1: WHILE LOOP (HERE WE FIRST CHECK THE COMPLETION CONDITION AFTER THAT COMPILER EXECUTE THE CODE IS THE WHILE BLOCK)
 
-    int a=0;
+    int a=0; // INITIALISATION
     while(a<=9)// LOOP TERMINATION CONDITION (IF NOT GIVEN IT WILL STUCK IN THIS LOOP FOR ETERNITY)
     {
         printf("\nthis is an example of while loop : %d",a);
@@ -25,12 +25,12 @@ int main()
     }
     printf("\n\n");
     // 2: DO WHILE LOOP (SAME AS WHILE BUT IT EXECUTE THE BLOCK CODE BEFORE CHECKING THE LOOP TERMINATION CONDITION)
-    int b=0;
+    int b=0; // INITIALISATION
     do
     {
         printf("\nthis is an example of do while loop: %d",b);
-        b++;
-    } while (b<=9);
+        b++;    // INCRIMINATION TO KEEP THIS LOOP MOVING FORWARD 
+    } while (b<=9); // LOOP TERMINATION CONDITION (IF NOT GIVEN IT WILL STUCK IN THIS LOOP FOR ETERNITY)
     
 
     return 0;
