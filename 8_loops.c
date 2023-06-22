@@ -34,11 +34,12 @@ int main()
         b++;    // INCRIMINATION TO KEEP THIS LOOP MOVING FORWARD 
     } while (b<=9); // LOOP TERMINATION CONDITION (IF NOT GIVEN IT WILL STUCK IN THIS LOOP FOR ETERNITY)
     printf("\n\n");
-    
+
     // 2: DO WHILE LOOP (SAME AS WHILE BUT IT EXECUTE THE BLOCK CODE BEFORE CHECKING THE LOOP TERMINATION CONDITION)
    for(int c=0;c<=9;c++)
    {
     printf("\nthis is an example of for loop: %d",c);
    }
+   
     return 0;
 }
