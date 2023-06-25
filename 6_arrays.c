@@ -42,7 +42,7 @@ int main()
     // IF I WANT TO CHANGE THE VALUE AT INDEX 4 FROM 32 TO 64
 
     integer_array[4]=64;
-    printf("\nNew value at index 4 is %d",integer_array[4]);
+    printf("\nNew value at index 4 is %d\n",integer_array[4]);
 
     // NOW WE CAN APPLY SAME FOR CHAR, AND ARRAY OF CHAR IS NOT ANYTHING BUT STRING
 
