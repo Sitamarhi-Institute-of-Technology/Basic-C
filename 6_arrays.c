@@ -48,9 +48,18 @@ int main()
 
     // SIMILARLY FOR ANY OTHER DATA TYPE
 
+    // MULTI-DIMESIONAL ARRAY
+    int myArray[2][3] = {{1, 2, 3}, {4, 5, 6}};
 
+   // Accessing elements in the array
+   printf("myArray[0][0]: %d\n", myArray[0][0]); // 1
+   printf("myArray[1][2]: %d\n", myArray[1][2]); // 6
 
+/*In this code, we have defined a 2D array called myArray with 2 rows and 3 columns. We have initialized the array with values {{1, 2, 3}, {4, 5, 6}}.
 
+To access elements in the array, we use the syntax arrayName[rowIndex][columnIndex]. In our example, myArray[0][0] gives us the value in the first row and first column, which is 1. Similarly, myArray[1][2] gives us the value in the second row and third column, which is 6.
+
+You can create multi-dimensional arrays with more rows, columns, and dimensions by simply adding more sets of square brackets to your declaration. For example, a 3D array with 2 rows, 3 columns, and 4 depths can be declared like this:*/
 
 
 
