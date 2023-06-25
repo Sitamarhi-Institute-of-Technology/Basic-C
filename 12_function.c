@@ -25,9 +25,9 @@ int main() {
 
     int a = 1;
     int b = 2;
-    printf("Before switching a = %d and b = %d",a,b);
+    printf("\nBefore switching a = %d and b = %d",a,b);
     swap(&a, &b);
-    printf("after switching a = %d and b = %d",a,b);
+    printf("\nafter switching a = %d and b = %d",a,b);
         
     return 0;
 }
