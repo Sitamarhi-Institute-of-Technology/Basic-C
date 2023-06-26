@@ -21,3 +21,11 @@ int main() {
 
    return 0;
 }
+
+/*In this code, we have first defined a structure called "student" with three member variables - name, roll, and marks.
+
+Then, in the main function, we have declared a variable "s1" of type "student".
+
+Next, we have assigned values to the member variables of "s1" using the dot operator.
+
+Finally, we have printed the values of the member variables using printf statements.*/
