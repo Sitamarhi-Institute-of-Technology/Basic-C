@@ -1,6 +1,6 @@
 # Basic C
 
-<img src="https://media.tenor.com/gzhQafe776EAAAAS/cyberpunk-2077.gif" width="100%">
+<img src="https://media.tenor.com/F_0coXB03-8AAAAC/cyberpunk2077-cyberpunk.gif" width="100%" align="center">
 
 Description: Basic-C Repository - Collection of Basic C Language Algorithms
 
