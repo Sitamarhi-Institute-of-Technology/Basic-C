@@ -1,5 +1,7 @@
 # Basic C
 
+<img src="https://media.tenor.com/gzhQafe776EAAAAS/cyberpunk-2077.gif" width="100%">
+
 Description: Basic-C Repository - Collection of Basic C Language Algorithms
 
 The Basic-C repository is a comprehensive collection of fundamental algorithms implemented in the C programming language. This repository aims to provide beginners with a solid foundation in C programming by demonstrating various essential algorithms and problem-solving techniques.
