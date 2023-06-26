@@ -11,7 +11,7 @@ int main() {
    struct student s1; // declaring a struct variable
 
    // assigning values to the struct members
-   strcpy(s1.name, "John");
+   strcpy(s1.name, "Sakshi");
    s1.roll = 1;
    s1.marks = 85.6;
 
